@@ -1,96 +1,107 @@
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Setup
-Install
-Usage
-Run tests
-👥 Authors
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
-📖 HELLO MICROVERSE
-This project is built for set up linters 
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
 
-🛠 Built With
-Tech Stack
-html
-css
+# 📗 Table of Contents
 
-🚀 Live Demo
-coming soon.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+
+- [📝 License](#license)
+
+### PROJECT NAME
 
 
-💻 Getting Started
-This project can be used to help to set up linters a
-Prerequisites
+>Hello-microverse
+
+This project was built to install linters for future use
+
+
+### It is built by 
+>html
+>css
+
+ ### Tech Stack
+ >html
+ >css
+
+### This project is built with 
+the help of html and css
+Also with adding .gitgnore file
+Again with adding stylelintrc.json and .hintrc
+finally we  got to add linters file so that they can be installed
+
+### FEATURES
+
+- This project was built by html and css
+- After we add linters file to help correct style
+
+ LIVE DEMO
+
+coming soon
+
+### Prerequisites
+
 In order to run this project you need:
-computer, internet, vs code and installation of linters
-Setup add .stylelintrc.json file, .hintrc file,.gitignore file
+-computer
+-network
+-install linters 
+-install vs code 
+
+## 💻 Getting Started 
+You can commence by installing vs-code and import .hintrc, .stylelintrc.json, .gitignore
+### Setup
+Clone this repository to your desired folder:
+git@github.com:Hazard10-eng/linters.git
 
 
-Install
-Install this project with:
-You first need computer, internet and vs code 
+### Install this project with:
+ -vs code
+ -git bash
 
-Usage
-To run the project, execute the following command:
-npx stylelint "**/*.{css,scss}"  
+### Run tests
 
-Run tests
 To run tests, run the following command:
-npx stylelint "**/*.{css,scss}"  
+npx stylelint styles.css for linters check and correction
 
-Deployment
-You can deploy this project using:
-live-server
+ AUTHORS 
 
-👥 Authors
-Mention all of the collaborators of this project.
+- GitHub:[(https://github.com/Hazard10-eng)]
+- Twitter: [https://twitter.com/AimeSebagabo]
+- LinkedIn: [(https://www.linkedin.com/in/jean-aime-sebagabo-279aa2207/)]
 
-👤 Author1
+## ⭐️ Show your support
 
-GitHub: @githubhandle
-Twitter: @twitterhandle
-LinkedIn: LinkedIn
+If you like this project please rate it to ten so I can have courage to move forward 
 
+## 🙏 Acknowledgments 
 
+I would like to thank God to help me finish this project
 
-⭐️ Show your support
-Write a message to encourage readers to support your project
+## 📝 License 
 
-If you like this project reach out to me for any request
+This project is [MIT](./LICENSE) licensed.
 
-
-
-🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
-
-I would like to thank God for helping me solve the issue
-
-(back to top)
-
-❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
-
-[Question_1]
-Where to start
-[Answer_1]
-install vs code and add linters file then push to the github
-[Question_2]
-stylint is not working 
-
-[Answer_2]
-try this npx stylelint "**/*.{css,scss}" --fix
-
-
-📝 License
-This project is MIT licensed.
-
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
