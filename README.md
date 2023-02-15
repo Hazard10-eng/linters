@@ -32,7 +32,7 @@ This project can be used to help to set up linters a
 Prerequisites
 In order to run this project you need:
 computer, internet, vs code and installation of linters
-Setup
+Setup add .stylelintrc.json file, .hintrc file,.gitignore file
 
 
 Install
